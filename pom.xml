@@ -26,12 +26,12 @@
   <parent>
     <groupId>org.jspringbot</groupId>
     <artifactId>jspringbot-base</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
   </parent>
 
   <groupId>org.jspringbot</groupId>
   <artifactId>sample-date</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>sample-date</name>
   <packaging>jar</packaging>
 

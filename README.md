@@ -1,5 +1,6 @@
+sample-date [![Build Status](https://travis-ci.org/jspringbot/sample-date.svg?branch=master)](https://travis-ci.org/jspringbot/sample-date)
+====
 jSpringBot Sample Date
-=======
 
 ### Introduction
 
